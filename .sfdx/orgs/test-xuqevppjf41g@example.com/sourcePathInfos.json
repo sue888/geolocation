@@ -6,10 +6,10 @@
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1528063044000,
-            "changeTime": 1528063044000,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "size": 136,
+            "modifiedTime": 1528066269000,
+            "changeTime": 1528066269000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -36,10 +36,10 @@
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 204,
-            "modifiedTime": 1528064653000,
-            "changeTime": 1528064653000,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "size": 306,
+            "modifiedTime": 1528066523000,
+            "changeTime": 1528066523000,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -49,10 +49,10 @@
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 68,
-            "modifiedTime": 1528063044000,
-            "changeTime": 1528063044000,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 102,
+            "modifiedTime": 1528066276000,
+            "changeTime": 1528066276000,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,159 +60,466 @@
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation",
             "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1528065656000,
+            "changeTime": 1528065656000,
+            "contentHash": "b500e0cc0fe528e3c3beb5f312ce13c9ab3dbcb9",
             "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1528063756000,
-            "changeTime": 1528063756000,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/objects",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129"
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1528064653000,
             "changeTime": 1528064653000,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1528066003000,
+            "changeTime": 1528066003000,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1528066121000,
+            "changeTime": 1528066121000,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1528066003000,
+            "changeTime": 1528066003000,
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1528066276000,
+            "changeTime": 1528066276000,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528066276000,
+            "changeTime": 1528066276000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 156,
+            "modifiedTime": 1528066303000,
+            "changeTime": 1528066303000,
+            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1528066276000,
+            "changeTime": 1528066276000,
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 133,
+            "modifiedTime": 1528066325000,
+            "changeTime": 1528066325000,
+            "contentHash": "897a218365eeb2e0671cc64370e8e3f74a2c78dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1528066276000,
+            "changeTime": 1528066276000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528066276000,
+            "changeTime": 1528066276000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528066276000,
+            "changeTime": 1528066276000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528066276000,
+            "changeTime": 1528066276000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528066276000,
+            "changeTime": 1528066276000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1528066523000,
+            "changeTime": 1528066523000,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4680,
+            "modifiedTime": 1528066523000,
+            "changeTime": 1528066523000,
+            "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5"
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5020,
+            "modifiedTime": 1528066523000,
+            "changeTime": 1528066523000,
+            "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714"
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4684,
+            "modifiedTime": 1528066523000,
+            "changeTime": 1528066523000,
+            "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b"
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17723,
+            "modifiedTime": 1528066523000,
+            "changeTime": 1528066523000,
+            "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b"
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1528066523000,
+            "changeTime": 1528066523000,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susantaylor/Salesforce/dx/my_sfdx_project/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1528066523000,
+            "changeTime": 1528066523000,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
         }
     ]
 ]
